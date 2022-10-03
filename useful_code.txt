@@ -1,0 +1,8 @@
+
+centred img
+<center>
+    <figure>
+        <img src='Images/momentum_img.png' width=600 alt='missing' />
+        <figcaption></figcaption>
+    </figure>
+</center>
